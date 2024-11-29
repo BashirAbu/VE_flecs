@@ -15,7 +15,6 @@
  * builtin features, such as relationship properties and hooks for keeping the
  * entity name administration in sync with the (Identifier, Name) component.
  */
-
 #include "flecs.h"
 /**
  * @file private_api.h
